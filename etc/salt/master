@@ -1,0 +1,23 @@
+
+conf_file: /home/nick/delete/heist/etc/salt/master
+
+pki_dir: /home/nick/delete/heist/etc/salt/pki/master
+
+roster_file: /home/nick/delete/heist/roster
+
+cachedir: /home/nick/delete/heist/var/cache/salt/master
+
+extension_modules: /home/nick/delete/heist/var/cache/salt/extmods
+
+sqlite_queue_dir: /home/nick/delete/heist/var/cache/salt/queues
+
+api_pidfile: /home/nick/delete/heist/var/run/salt-api.pid
+syndic_pidfile: /home/nick/delete/heist/var/run/syndic.pid
+pidfile: /home/nick/delete/heist/var/run/salt-master.pid
+
+sock_dir: /home/nick/delete/heist/var/run/salt/master
+
+api_log_file: /home/nick/delete/heist/var/log/salt/api
+log_file: /home/nick/delete/heist/var/log/salt/master
+ssh_log_file: /home/nick/delete/heist/var/log/salt/ssh
+syndic_log_file: /home/nick/delete/heist/var/log/salt-syndic.log
